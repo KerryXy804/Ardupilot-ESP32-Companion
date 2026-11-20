@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "AoA Sensor",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
